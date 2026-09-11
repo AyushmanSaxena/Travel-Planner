@@ -51,8 +51,8 @@ IBM Cloud Lite
 HTML / CSS / JavaScript	
 Prompt Engineering
 
-**#🌐 Live Website**
+# 🌐 Live Website
 
-👉 
+👉 https://ayushmansaxena.github.io/Travel-Planner/
 
 Explore the AI Travel Planner and interact with the conversational travel assistant.
